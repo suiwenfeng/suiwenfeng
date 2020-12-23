@@ -1,4 +1,4 @@
-### Hi there 👋
+### Learning 6.824
 
 <!--
 **suiwenfeng/suiwenfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

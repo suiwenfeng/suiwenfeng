@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Suiwenfeng!
 
-- 🔭 I’m currently working on [sar](https://github.com/suiwenfeng/sar)
+- 🔭 I’m currently working on [EgoStrategy](https://github.com/EgoStrategy)
 - 🌱 I’m currently learning c++
 
 ### 🛠️ My Skills:
@@ -18,5 +18,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/suiwenfeng)
 
 ### 📂 Recent Projects:
-
-- [sar](https://github.com/suiwenfeng/sar)
